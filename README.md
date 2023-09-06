@@ -10,3 +10,39 @@
 | 2018.10 | BERT | [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805) | Transformer一统NLP的开始                  |[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fdf2b0e26d0599ce3e70df8a9da02e51594e0e992%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/BERT%3A-Pre-training-of-Deep-Bidirectional-for-Devlin-Chang/df2b0e26d0599ce3e70df8a9da02e51594e0e992)  |
 | 2019.2 | GPT-2 | [Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)  |  更大的 GPT 模型，朝着zero-shot learning迈了一大步             |[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F9405cc0d6169988371b2755e573cc28650d14dfe%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Language-Models-are-Unsupervised-Multitask-Learners-Radford-Wu/9405cc0d6169988371b2755e573cc28650d14dfe)  |
 | 2020.5 | GPT-3 |  [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165) | 100倍更大的 GPT-2，few-shot learning效果显著                  |[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F6b85b63579a916f705a8e10a49bd8d849d91b1fc%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Language-Models-are-Few-Shot-Learners-Brown-Mann/6b85b63579a916f705a8e10a49bd8d849d91b1fc)  |
+
+
+<table>
+  <tbody>
+    <tr>
+      <th>Tables</th>
+      <th align="center">Are</th>
+      <th align="right">Cool</th>
+    </tr>
+    <tr>
+      <td>col 3 is</td>
+      <td align="center">right-aligned</td>
+      <td align="right">$1600</td>
+    </tr>
+    <tr>
+      <td>col 2 is</td>
+      <td align="center">centered</td>
+      <td align="right">$12</td>
+    </tr>
+    <tr>
+      <td>zebra stripes</td>
+      <td align="center">are neat</td>
+      <td align="right">$1</td>
+    </tr>
+    <tr>
+      <td>
+        <ul>
+          <li>item1</li>
+          <li>item2</li>
+        </ul>
+      </td>
+      <td align="center">See the list</td>
+      <td align="right">from the first column</td>
+    </tr>
+  </tbody>
+</table>
