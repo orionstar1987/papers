@@ -16,9 +16,11 @@
 <table>
   <tbody>
     <tr>
-      <th>Tables</th>
-      <th align="center">Are</th>
-      <th align="right">Cool</th>
+      <th align="center">Date</th>
+      <th align="center">Category</th>
+      <th align="center">Paper Name</th>
+      <th align="center">Description</th>
+      <th align="center">Citation</th>
     </tr>
     <tr>
       <td>col 3 is</td>
