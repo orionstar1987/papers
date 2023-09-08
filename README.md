@@ -148,5 +148,10 @@
     <tr>
       <td>2020.5</td>
       <td>GPT-3</td>
-      <td
+      <td><a href="https://arxiv.org/abs/2005.14165">Language Models are Few-Shot Learners</a></td>
+      <td>100倍更大的 GPT-2，few-shot learning效果显著</td>
+      <td><a href="https://www.semanticscholar.org/paper/Language-Models-are-Few-Shot-Learners-Brown-Mann/6b85b63579a916f705a8e10a49bd8d849d91b1fc"><img src="https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F6b85b63579a916f705a8e10a49bd8d849d91b1fc%3Ffields%3DcitationCount" alt="citation"></a></td>
+    </tr>
+  </tbody>
+</table>
 
