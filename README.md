@@ -75,6 +75,7 @@
         <ul>
           <li>combines both financial data (363 billion token) with general-purpose datasets (345 billion token)</li>
           <li>Much better on financial tasks. On par on general NLP tasks</li>
+          <li>FinTech use cases: sentiment analysis, named entity recognition, news classification, Q&A</li>
         </ul>
       </td>
       <td><a href="https://www.semanticscholar.org/paper/BloombergGPT%3A-A-Large-Language-Model-for-Finance-Wu-Irsoy/83edcfbb206ddad38a971d605da09390604248ea"><img src="https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F83edcfbb206ddad38a971d605da09390604248ea%3Ffields%3DcitationCount" alt="citation"></a></td>
