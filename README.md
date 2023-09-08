@@ -24,49 +24,56 @@
     </tr>
     <tr>
       <td align="center"> </td>
-      <td align="center"><a href="https://chat.openai.com/">RNN</a></td>
+      <td align="center">RNN</td>
       <td align="center"> </td>
       <td align="center">Vanishing & Exploding Gradients problems</td>
       <td><a href="https://www.semanticscholar.org/paper/Attention-is-All-you-Need-Vaswani-Shazeer/204e3073870fae3d05bcbc2f6a8e263d9b72e776"><img src="https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F204e3073870fae3d05bcbc2f6a8e263d9b72e776%3Ffields%3DcitationCount" alt="citation"></a></td>
     </tr>
     <tr>
       <td align="center"> </td>
-      <td align="center"><a href="https://chat.openai.com/">RNN</a></td>
+      <td align="center">RNN</td>
       <td align="center"> </td>
       <td align="center">Vanishing & Exploding Gradients problems</td>
       <td><a href="https://www.semanticscholar.org/paper/Attention-is-All-you-Need-Vaswani-Shazeer/204e3073870fae3d05bcbc2f6a8e263d9b72e776"><img src="https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F204e3073870fae3d05bcbc2f6a8e263d9b72e776%3Ffields%3DcitationCount" alt="citation"></a></td>
     </tr>
     <tr>
       <td align="center"> </td>
-      <td align="center"><a href="https://chat.openai.com/">RNN</a></td>
+      <td align="center">RNN</td>
       <td align="center"> </td>
       <td align="center">Vanishing & Exploding Gradients problems</td>
       <td><a href="https://www.semanticscholar.org/paper/Attention-is-All-you-Need-Vaswani-Shazeer/204e3073870fae3d05bcbc2f6a8e263d9b72e776"><img src="https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F204e3073870fae3d05bcbc2f6a8e263d9b72e776%3Ffields%3DcitationCount" alt="citation"></a></td>
     </tr>
     <tr>
       <td align="center"> </td>
-      <td align="center"><a href="https://chat.openai.com/">RNN</a></td>
+      <td align="center">RNN</td>
       <td align="center"> </td>
       <td align="center">Vanishing & Exploding Gradients problems</td>
       <td><a href="https://www.semanticscholar.org/paper/Attention-is-All-you-Need-Vaswani-Shazeer/204e3073870fae3d05bcbc2f6a8e263d9b72e776"><img src="https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F204e3073870fae3d05bcbc2f6a8e263d9b72e776%3Ffields%3DcitationCount" alt="citation"></a></td>
     </tr>
     <tr>
       <td align="center"> </td>
-      <td align="center"><a href="https://chat.openai.com/">RNN</a></td>
+      <td align="center">RNN</td>
       <td align="center"> </td>
       <td align="center">Vanishing & Exploding Gradients problems</td>
       <td><a href="https://www.semanticscholar.org/paper/Attention-is-All-you-Need-Vaswani-Shazeer/204e3073870fae3d05bcbc2f6a8e263d9b72e776"><img src="https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F204e3073870fae3d05bcbc2f6a8e263d9b72e776%3Ffields%3DcitationCount" alt="citation"></a></td>
     </tr>
     <tr>
       <td align="center"> </td>
-      <td align="center"><a href="https://chat.openai.com/">RNN</a></td>
+      <td align="center">RNN</td>
       <td align="center"> </td>
       <td align="center">Vanishing & Exploding Gradients problems</td>
       <td><a href="https://www.semanticscholar.org/paper/Attention-is-All-you-Need-Vaswani-Shazeer/204e3073870fae3d05bcbc2f6a8e263d9b72e776"><img src="https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F204e3073870fae3d05bcbc2f6a8e263d9b72e776%3Ffields%3DcitationCount" alt="citation"></a></td>
     </tr>
     <tr>
       <td align="center"> </td>
-      <td align="center"><a href="https://chat.openai.com/">RNN</a></td>
+      <td align="center">RNN</td>
+      <td align="center"> </td>
+      <td align="center">Vanishing & Exploding Gradients problems</td>
+      <td><a href="https://www.semanticscholar.org/paper/Attention-is-All-you-Need-Vaswani-Shazeer/204e3073870fae3d05bcbc2f6a8e263d9b72e776"><img src="https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F204e3073870fae3d05bcbc2f6a8e263d9b72e776%3Ffields%3DcitationCount" alt="citation"></a></td>
+    </tr>
+    <tr>
+      <td align="center"> </td>
+      <<td align="center">RNN</td>
       <td align="center"> </td>
       <td align="center">Vanishing & Exploding Gradients problems</td>
       <td><a href="https://www.semanticscholar.org/paper/Attention-is-All-you-Need-Vaswani-Shazeer/204e3073870fae3d05bcbc2f6a8e263d9b72e776"><img src="https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F204e3073870fae3d05bcbc2f6a8e263d9b72e776%3Ffields%3DcitationCount" alt="citation"></a></td>
@@ -83,3 +90,63 @@
     </tr>
   </tbody>
 </table>
+
+
+<table>
+  <thead>
+    <tr>
+      <th>Date</th>
+      <th>Name</th>
+      <th>Paper Name</th>
+      <th>Description</th>
+      <th>Citation</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td></td>
+      <td>RNN</td>
+      <td></td>
+      <td>Vanishing & Exploding Gradients problems</td>
+      <td><a href="https://www.semanticscholar.org/paper/Attention-is-All-you-Need-Vaswani-Shazeer/204e3073870fae3d05bcbc2f6a8e263d9b72e776"><img src="https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F204e3073870fae3d05bcbc2f6a8e263d9b72e776%3Ffields%3DcitationCount" alt="citation"></a></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>LSTM</td>
+      <td></td>
+      <td>Two separate paths (long term memories and short term memories) and 3 gates (forget, input, output)</td>
+      <td><a href="https://www.semanticscholar.org/paper/Attention-is-All-you-Need-Vaswani-Shazeer/204e3073870fae3d05bcbc2f6a8e263d9b72e776"><img src="https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F204e3073870fae3d05bcbc2f6a8e263d9b72e776%3Ffields%3DcitationCount" alt="citation"></a></td>
+    </tr>
+    <tr>
+      <td>2017.6</td>
+      <td>Transformer</td>
+      <td><a href="https://arxiv.org/abs/1706.03762">Attention is All You Need</a></td>
+      <td>继MLP、CNN、RNN后的第四大类架构</td>
+      <td><a href="https://www.semanticscholar.org/paper/Attention-is-All-you-Need-Vaswani-Shazeer/204e3073870fae3d05bcbc2f6a8e263d9b72e776"><img src="https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F204e3073870fae3d05bcbc2f6a8e263d9b72e776%3Ffields%3DcitationCount" alt="citation"></a></td>
+    </tr>
+    <tr>
+      <td>2018.6</td>
+      <td>GPT</td>
+      <td><a href="https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf">Improving Language Understanding by Generative Pre-Training</a></td>
+      <td>使用 Transformer 解码器来做预训练</td>
+      <td><a href="https://www.semanticscholar.org/paper/Improving-Language-Understanding-by-Generative-Radford-Narasimhan/cd18800a0fe0b668a1cc19f2ec95b5003d0a5035"><img src="https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fcd18800a0fe0b668a1cc19f2ec95b5003d0a5035%3Ffields%3DcitationCount" alt="citation"></a></td>
+    </tr>
+    <tr>
+      <td>2018.10</td>
+      <td>BERT</td>
+      <td><a href="https://arxiv.org/abs/1810.04805">BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding</a></td>
+      <td>Transformer一统NLP的开始</td>
+      <td><a href="https://www.semanticscholar.org/paper/BERT%3A-Pre-training-of-Deep-Bidirectional-for-Devlin-Chang/df2b0e26d0599ce3e70df8a9da02e51594e0e992"><img src="https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fdf2b0e26d0599ce3e70df8a9da02e51594e0e992%3Ffields%3DcitationCount" alt="citation"></a></td>
+    </tr>
+    <tr>
+      <td>2019.2</td>
+      <td>GPT-2</td>
+      <td><a href="https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf">Language Models are Unsupervised Multitask Learners</a></td>
+      <td>更大的 GPT 模型，朝着zero-shot learning迈了一大步</td>
+      <td><a href="https://www.semanticscholar.org/paper/Language-Models-are-Unsupervised-Multitask-Learners-Radford-Wu/9405cc0d6169988371b2755e573cc28650d14dfe"><img src="https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F9405cc0d6169988371b2755e573cc28650d14dfe%3Ffields%3DcitationCount" alt="citation"></a></td>
+    </tr>
+    <tr>
+      <td>2020.5</td>
+      <td>GPT-3</td>
+      <td
+
