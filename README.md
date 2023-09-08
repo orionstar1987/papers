@@ -44,6 +44,34 @@
       <td><a href="https://www.semanticscholar.org/paper/Attention-is-All-you-Need-Vaswani-Shazeer/204e3073870fae3d05bcbc2f6a8e263d9b72e776"><img src="https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F204e3073870fae3d05bcbc2f6a8e263d9b72e776%3Ffields%3DcitationCount" alt="citation"></a></td>
     </tr>
     <tr>
+      <td align="center"> </td>
+      <td align="center"><a href="https://chat.openai.com/">RNN</a></td>
+      <td align="center"> </td>
+      <td align="center">Vanishing & Exploding Gradients problems</td>
+      <td><a href="https://www.semanticscholar.org/paper/Attention-is-All-you-Need-Vaswani-Shazeer/204e3073870fae3d05bcbc2f6a8e263d9b72e776"><img src="https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F204e3073870fae3d05bcbc2f6a8e263d9b72e776%3Ffields%3DcitationCount" alt="citation"></a></td>
+    </tr>
+    <tr>
+      <td align="center"> </td>
+      <td align="center"><a href="https://chat.openai.com/">RNN</a></td>
+      <td align="center"> </td>
+      <td align="center">Vanishing & Exploding Gradients problems</td>
+      <td><a href="https://www.semanticscholar.org/paper/Attention-is-All-you-Need-Vaswani-Shazeer/204e3073870fae3d05bcbc2f6a8e263d9b72e776"><img src="https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F204e3073870fae3d05bcbc2f6a8e263d9b72e776%3Ffields%3DcitationCount" alt="citation"></a></td>
+    </tr>
+    <tr>
+      <td align="center"> </td>
+      <td align="center"><a href="https://chat.openai.com/">RNN</a></td>
+      <td align="center"> </td>
+      <td align="center">Vanishing & Exploding Gradients problems</td>
+      <td><a href="https://www.semanticscholar.org/paper/Attention-is-All-you-Need-Vaswani-Shazeer/204e3073870fae3d05bcbc2f6a8e263d9b72e776"><img src="https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F204e3073870fae3d05bcbc2f6a8e263d9b72e776%3Ffields%3DcitationCount" alt="citation"></a></td>
+    </tr>
+    <tr>
+      <td align="center"> </td>
+      <td align="center"><a href="https://chat.openai.com/">RNN</a></td>
+      <td align="center"> </td>
+      <td align="center">Vanishing & Exploding Gradients problems</td>
+      <td><a href="https://www.semanticscholar.org/paper/Attention-is-All-you-Need-Vaswani-Shazeer/204e3073870fae3d05bcbc2f6a8e263d9b72e776"><img src="https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F204e3073870fae3d05bcbc2f6a8e263d9b72e776%3Ffields%3DcitationCount" alt="citation"></a></td>
+    </tr>
+    <tr>
       <td>
         <ul>
           <li>item1</li>
