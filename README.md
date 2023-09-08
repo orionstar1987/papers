@@ -68,23 +68,16 @@
       <td><a href="https://www.semanticscholar.org/paper/Language-Models-are-Few-Shot-Learners-Brown-Mann/6b85b63579a916f705a8e10a49bd8d849d91b1fc"><img src="https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F6b85b63579a916f705a8e10a49bd8d849d91b1fc%3Ffields%3DcitationCount" alt="citation"></a></td>
     </tr>
     <tr>
-      <td>2023.3</td>
-      <td>BloombergGPT</td>
-      <td><a href="https://arxiv.org/abs/2303.17564">BloombergGPT: A Large Language Model for Finance</a></td>
-      <td>
-        <ul>
-          <li>Combines both financial data (363 billion token) with general-purpose datasets (345 billion token)</li>
-          <li>Decoder-only Transformer</li>
-          <li>Much better on financial tasks. On par on general NLP tasks</li>
-          <li>FinTech use cases: sentiment analysis, named entity recognition, news classification, Q&A</li>
-        </ul>
-      </td>
+      <td>2022.4</td>
+      <td>LLM Computation</td>
+      <td><a href="https://proceedings.neurips.cc/paper_files/paper/2022/file/c1e2faff6f588870935f114ebe04a3e5-Paper-Conference.pdf">Training Compute-Optimal Large Language Models</a></td>
+      <td> the model size and the number of training tokens should be scaled equally: for every doubling of model size the number of training tokens should also be doubled</td>
       <td><a href="https://www.semanticscholar.org/paper/BloombergGPT%3A-A-Large-Language-Model-for-Finance-Wu-Irsoy/83edcfbb206ddad38a971d605da09390604248ea"><img src="https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F83edcfbb206ddad38a971d605da09390604248ea%3Ffields%3DcitationCount" alt="citation"></a></td>
     </tr>
     <tr>
       <td>2023.3</td>
       <td>BloombergGPT</td>
-      <td><a href="https://proceedings.neurips.cc/paper_files/paper/2022/file/c1e2faff6f588870935f114ebe04a3e5-Paper-Conference.pdf">Training Compute-Optimal Large Language Models</a></td>
+      <td><a href="https://arxiv.org/abs/2303.17564">BloombergGPT: A Large Language Model for Finance</a></td>
       <td>
         <ul>
           <li>Combines both financial data (363 billion token) with general-purpose datasets (345 billion token)</li>
