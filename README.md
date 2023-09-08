@@ -60,6 +60,7 @@
       <td>更大的 GPT 模型，朝着zero-shot learning迈了一大步</td>
       <td><a href="https://www.semanticscholar.org/paper/Language-Models-are-Unsupervised-Multitask-Learners-Radford-Wu/9405cc0d6169988371b2755e573cc28650d14dfe"><img src="https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F9405cc0d6169988371b2755e573cc28650d14dfe%3Ffields%3DcitationCount" alt="citation"></a></td>
     </tr>
+    
     <tr>
       <td>2020.5</td>
       <td>GPT-3</td>
@@ -67,6 +68,7 @@
       <td>100倍更大的 GPT-2，few-shot learning效果显著</td>
       <td><a href="https://www.semanticscholar.org/paper/Language-Models-are-Few-Shot-Learners-Brown-Mann/6b85b63579a916f705a8e10a49bd8d849d91b1fc"><img src="https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F6b85b63579a916f705a8e10a49bd8d849d91b1fc%3Ffields%3DcitationCount" alt="citation"></a></td>
     </tr>
+    
     <tr>
       <td>2023.3</td>
       <td>BloombergGPT</td>
@@ -81,6 +83,7 @@
       </td>
       <td><a href="https://www.semanticscholar.org/paper/BloombergGPT%3A-A-Large-Language-Model-for-Finance-Wu-Irsoy/83edcfbb206ddad38a971d605da09390604248ea"><img src="https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F83edcfbb206ddad38a971d605da09390604248ea%3Ffields%3DcitationCount" alt="citation"></a></td>
     </tr>
+    
   </tbody>
 </table>
 
