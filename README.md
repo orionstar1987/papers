@@ -84,7 +84,7 @@
     <tr>
       <td>2023.3</td>
       <td>BloombergGPT</td>
-      <td><a href="https://arxiv.org/abs/2303.17564">BloombergGPT: A Large Language Model for Finance</a></td>
+      <td><a href="https://proceedings.neurips.cc/paper_files/paper/2022/file/c1e2faff6f588870935f114ebe04a3e5-Paper-Conference.pdf">Training Compute-Optimal Large Language Models</a></td>
       <td>
         <ul>
           <li>Combines both financial data (363 billion token) with general-purpose datasets (345 billion token)</li>
