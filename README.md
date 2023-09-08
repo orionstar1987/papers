@@ -77,7 +77,7 @@
           <li>Much better on financial tasks. On par on general NLP tasks</li>
         </ul>
       </td>
-      <td><a href="https://www.semanticscholar.org/paper/BloombergGPT%3A-A-Large-Language-Model-for-Finance-Wu-Irsoy/83edcfbb206ddad38a971d605da09390604248ea"><img src="https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F6b85b63579a916f705a8e10a49bd8d849d91b1fc%3Ffields%3DcitationCount" alt="citation"></a></td>
+      <td><a href="https://www.semanticscholar.org/paper/BloombergGPT%3A-A-Large-Language-Model-for-Finance-Wu-Irsoy/83edcfbb206ddad38a971d605da09390604248ea"><img src="https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F83edcfbb206ddad38a971d605da09390604248ea%3Ffields%3DcitationCount" alt="citation"></a></td>
     </tr>
   </tbody>
 </table>
