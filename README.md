@@ -67,7 +67,6 @@
       <td>100倍更大的 GPT-2，few-shot learning效果显著</td>
       <td><a href="https://www.semanticscholar.org/paper/Language-Models-are-Few-Shot-Learners-Brown-Mann/6b85b63579a916f705a8e10a49bd8d849d91b1fc"><img src="https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F6b85b63579a916f705a8e10a49bd8d849d91b1fc%3Ffields%3DcitationCount" alt="citation"></a></td>
     </tr>
-    
     <tr>
       <td>2022.4</td>
       <td>BloombergGPT</td>
@@ -75,7 +74,6 @@
       <td>The model size and the number of training tokens should be scaled equally: for every doubling of model size the number of training tokens should also be doubled</td>
       <td><a href="https://www.semanticscholar.org/paper/An-empirical-analysis-of-compute-optimal-large-Hoffmann-Borgeaud/bb0656031cb17adf6bac5fd0fe8d53dd9c291508"><img src="https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fbb0656031cb17adf6bac5fd0fe8d53dd9c291508%3Ffields%3DcitationCount" alt="citation"></a></td>
     </tr>
-
     <tr>
       <td>2023.3</td>
       <td>BloombergGPT</td>
@@ -90,6 +88,5 @@
       </td>
       <td><a href="https://www.semanticscholar.org/paper/BloombergGPT%3A-A-Large-Language-Model-for-Finance-Wu-Irsoy/83edcfbb206ddad38a971d605da09390604248ea"><img src="https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F83edcfbb206ddad38a971d605da09390604248ea%3Ffields%3DcitationCount" alt="citation"></a></td>
     </tr>
-    
   </tbody>
 </table>
