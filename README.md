@@ -6,7 +6,7 @@
   <thead>
     <tr>
       <th>Date</th>
-      <th>Name</th>
+      <th>Category</th>
       <th>Paper Name</th>
       <th>Description</th>
       <th>Citation</th>
@@ -71,8 +71,8 @@
       <td>2022.4</td>
       <td>LLM Computation</td>
       <td><a href="https://proceedings.neurips.cc/paper_files/paper/2022/file/c1e2faff6f588870935f114ebe04a3e5-Paper-Conference.pdf">Training Compute-Optimal Large Language Models</a></td>
-      <td> the model size and the number of training tokens should be scaled equally: for every doubling of model size the number of training tokens should also be doubled</td>
-      <td><a href="https://www.semanticscholar.org/paper/BloombergGPT%3A-A-Large-Language-Model-for-Finance-Wu-Irsoy/83edcfbb206ddad38a971d605da09390604248ea"><img src="https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F83edcfbb206ddad38a971d605da09390604248ea%3Ffields%3DcitationCount" alt="citation"></a></td>
+      <td>The model size and the number of training tokens should be scaled equally: for every doubling of model size the number of training tokens should also be doubled</td>
+      <td><a href="https://www.semanticscholar.org/paper/An-empirical-analysis-of-compute-optimal-large-Hoffmann-Borgeaud/bb0656031cb17adf6bac5fd0fe8d53dd9c291508"><img src="https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fbb0656031cb17adf6bac5fd0fe8d53dd9c291508%3Ffields%3DcitationCount" alt="citation"></a></td>
     </tr>
     <tr>
       <td>2023.3</td>
