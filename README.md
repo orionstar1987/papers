@@ -51,7 +51,13 @@
       <td>2017.6</td>
       <td>Transformer</td>
       <td><a href="https://arxiv.org/abs/1706.03762">Attention is All You Need</a></td>
-      <td>#4 DL architecture after MLP、CNN、RNN</td>
+      <td>
+        <ul>
+          <li>#4 DL architecture after MLP、CNN、RNN</li>
+          <li>LSTM architecture is not needed anymore: for longer phrases, words that are input early on can be forgotten</li>
+          <li>Encoding stays the same. Each step of the Decoding has access to the individual Encodings for each input word (similarity score)</li>
+        </ul>
+      </td>
       <td><a href="https://www.semanticscholar.org/paper/Attention-is-All-you-Need-Vaswani-Shazeer/204e3073870fae3d05bcbc2f6a8e263d9b72e776"><img src="https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F204e3073870fae3d05bcbc2f6a8e263d9b72e776%3Ffields%3DcitationCount" alt="citation"></a></td>
     </tr>
     <tr>
