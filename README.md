@@ -33,6 +33,18 @@
       <td><a href="https://www.semanticscholar.org/paper/Attention-is-All-you-Need-Vaswani-Shazeer/204e3073870fae3d05bcbc2f6a8e263d9b72e776"><img src="https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F204e3073870fae3d05bcbc2f6a8e263d9b72e776%3Ffields%3DcitationCount" alt="citation"></a></td>
     </tr>
     <tr>
+      <td></td>
+      <td>seq2seq</td>
+      <td>2014.9</td>
+      <td>
+        <ul>
+          <li>2 separate paths (long term memories and short term memories)</li>
+          <li>3 gates (forget, input, output)</li>
+        </ul>
+      </td>
+      <td><a href="https://www.semanticscholar.org/paper/Sequence-to-Sequence-Learning-with-Neural-Networks-Sutskever-Vinyals/cea967b59209c6be22829699f05b8b1ac4dc092d"><img src="https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fcea967b59209c6be22829699f05b8b1ac4dc092d%3Ffields%3DcitationCount" alt="citation"></a></td>
+    </tr>
+    <tr>
       <td>2017.6</td>
       <td>Transformer</td>
       <td><a href="https://arxiv.org/abs/1706.03762">Attention is All You Need</a></td>
