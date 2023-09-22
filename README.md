@@ -71,7 +71,13 @@
       <td>2018.10</td>
       <td>BERT</td>
       <td><a href="https://arxiv.org/abs/1810.04805">BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding</a></td>
-      <td>Transformer一统NLP的开始</td>
+      <td>
+        <ul>
+          <li>Transformer一统NLP的开始</li>
+          <li>LSTM architecture is not needed anymore: for longer phrases, words that are input early on can be forgotten</li>
+          <li>Encoding stays the same. Each step of the Decoding has access to the individual Encodings for each input word (similarity score)</li>
+        </ul>
+      </td>
       <td><a href="https://www.semanticscholar.org/paper/BERT%3A-Pre-training-of-Deep-Bidirectional-for-Devlin-Chang/df2b0e26d0599ce3e70df8a9da02e51594e0e992"><img src="https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fdf2b0e26d0599ce3e70df8a9da02e51594e0e992%3Ffields%3DcitationCount" alt="citation"></a></td>
     </tr>
     <tr>
