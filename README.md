@@ -74,7 +74,7 @@
       <td>
         <ul>
           <li>Transformer一统NLP的开始</li>
-          <li>ELMO + BERT = Pretrain Deep Bidirectional Transformer (GPT: uni-directional; ELMO: RNN-based)</li>
+          <li>BERT = Pretrain Deep Bidirectional Transformer (GPT: uni-directional; ELMO: RNN-based)</li>
           <li>Masked Language Model (token level): randomly masks some tokens from the input, and the objective is the prediction these masked tokens</li>
           <li>Next Sentence Prediciton (sentence level): learn sentence-level relationship</li>
           <li>Pe-training: unlabled data</li>
