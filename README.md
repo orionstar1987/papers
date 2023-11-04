@@ -91,6 +91,13 @@
       <td><a href="https://www.semanticscholar.org/paper/Language-Models-are-Unsupervised-Multitask-Learners-Radford-Wu/9405cc0d6169988371b2755e573cc28650d14dfe"><img src="https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F9405cc0d6169988371b2755e573cc28650d14dfe%3Ffields%3DcitationCount" alt="citation"></a></td>
     </tr>
     <tr>
+      <td>2019.8</td>
+      <td>Sentence BERT</td>
+      <td><a href="https://arxiv.org/pdf/1908.10084.pdf">Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks</a></td>
+      <td>更大的 GPT 模型，朝着zero-shot learning迈了一大步</td>
+      <td><a href="https://www.semanticscholar.org/paper/Language-Models-are-Unsupervised-Multitask-Learners-Radford-Wu/9405cc0d6169988371b2755e573cc28650d14dfe"><img src="https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F9405cc0d6169988371b2755e573cc28650d14dfe%3Ffields%3DcitationCount" alt="citation"></a></td>
+    </tr>
+    <tr>
       <td>2020.5</td>
       <td>GPT-3</td>
       <td><a href="https://arxiv.org/abs/2005.14165">Language Models are Few-Shot Learners</a></td>
