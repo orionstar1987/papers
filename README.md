@@ -94,7 +94,16 @@
       <td>2019.8</td>
       <td>Sentence BERT</td>
       <td><a href="https://arxiv.org/pdf/1908.10084.pdf">Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks</a></td>
-      <td>更大的 GPT 模型，朝着zero-shot learning迈了一大步</td>
+      <td>
+        <ul>
+          <li>Independent setence embeddings</li>
+          <li>Reduced finding the most similar sentence pair in a collection of 10,000 sentences from 65 hours with BERT to 5 seconds with SBERT</li>
+          <li>Masked Language Model (token level): randomly masks some tokens from the input, and the objective is the prediction these masked tokens</li>
+          <li>Next Sentence Prediciton (sentence level): learn sentence-level relationship</li>
+          <li>Pe-training: unlabled data</li>
+          <li>Fine-tuning: initialize with the pre-trained parameters, then use labeled data from downstream tasks to finetune</li>
+        </ul>
+      </td>
       <td><a href="https://www.semanticscholar.org/paper/Language-Models-are-Unsupervised-Multitask-Learners-Radford-Wu/9405cc0d6169988371b2755e573cc28650d14dfe"><img src="https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F9405cc0d6169988371b2755e573cc28650d14dfe%3Ffields%3DcitationCount" alt="citation"></a></td>
     </tr>
     <tr>
