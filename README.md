@@ -101,7 +101,7 @@
           <li>Reduced finding the most similar sentence pair in a collection of 10,000 sentences from 65 hours with BERT to 5 seconds with SBERT</li>
         </ul>
       </td>
-      <td><a href="https://www.semanticscholar.org/paper/Language-Models-are-Unsupervised-Multitask-Learners-Radford-Wu/9405cc0d6169988371b2755e573cc28650d14dfe"><img src="https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F9405cc0d6169988371b2755e573cc28650d14dfe%3Ffields%3DcitationCount" alt="citation"></a></td>
+      <td><a href="https://www.semanticscholar.org/paper/Sentence-BERT%3A-Sentence-Embeddings-using-Siamese-Reimers-Gurevych/93d63ec754f29fa22572615320afe0521f7ec66d"><img src="https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F93d63ec754f29fa22572615320afe0521f7ec66d%3Ffields%3DcitationCount" alt="citation"></a></td>
     </tr>
     <tr>
       <td>2020.5</td>
