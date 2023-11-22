@@ -13,7 +13,15 @@
       <td></td>
       <td>SARs</td>
       <td><a href="https://www.ijcai.org/Proceedings/2019/0883.pdf">Sequential Recommender Systems: Challenges, Progress and Prospects</a></td>
-      <td>Sequential Recommender Systems: Challenges, Progress and Prospects</td>
+      <td>
+        <ul>
+          <li>machine translation: can handle variable input and variable output lengths</li>
+          <li>decouple Encoder and Decoder </li>
+          <li>use Embeddings as input </li>
+          <li>stacked LSTM cells and layers for both Encoder and Decoder</li>
+          <li>Teacher Forcing: during training, use the known/actual words and stop at the known phrase length, rather than using the predicted tokens</li>
+        </ul>
+      </td>
       <td><a href="https://www.semanticscholar.org/paper/Sequential-Recommender-Systems%3A-Challenges%2C-and-Wang-Hu/d837642802ffc85e193694f94f7499276864648e"><img src="https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fd837642802ffc85e193694f94f7499276864648e%3Ffields%3DcitationCount" alt="citation"></a></td>
     </tr>
     <tr>
