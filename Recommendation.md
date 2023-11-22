@@ -14,7 +14,7 @@
       <td>SARs</td>
       <td><a href="https://www.ijcai.org/Proceedings/2019/0883.pdf">Sequential Recommender Systems: Challenges, Progress and Prospects</a></td>
       <td>Sequential Recommender Systems: Challenges, Progress and Prospects</td>
-      <td><a href="https://www.semanticscholar.org/paper/Attention-is-All-you-Need-Vaswani-Shazeer/204e3073870fae3d05bcbc2f6a8e263d9b72e776"><img src="https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F204e3073870fae3d05bcbc2f6a8e263d9b72e776%3Ffields%3DcitationCount" alt="citation"></a></td>
+      <td><a href="https://www.semanticscholar.org/paper/Sequential-Recommender-Systems%3A-Challenges%2C-and-Wang-Hu/d837642802ffc85e193694f94f7499276864648e"><img src="https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fd837642802ffc85e193694f94f7499276864648e%3Ffields%3DcitationCount" alt="citation"></a></td>
     </tr>
     <tr>
       <td></td>
