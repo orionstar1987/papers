@@ -11,9 +11,9 @@
   <tbody>
     <tr>
       <td></td>
-      <td>RNN</td>
-      <td></td>
-      <td>Vanishing & Exploding Gradients problems</td>
+      <td>SARs</td>
+      <td><a href="https://www.ijcai.org/Proceedings/2019/0883.pdf">Sequential Recommender Systems: Challenges, Progress and Prospects</a></td>
+      <td>Sequential Recommender Systems: Challenges, Progress and Prospects</td>
       <td><a href="https://www.semanticscholar.org/paper/Attention-is-All-you-Need-Vaswani-Shazeer/204e3073870fae3d05bcbc2f6a8e263d9b72e776"><img src="https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F204e3073870fae3d05bcbc2f6a8e263d9b72e776%3Ffields%3DcitationCount" alt="citation"></a></td>
     </tr>
     <tr>
