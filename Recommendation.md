@@ -29,9 +29,9 @@
       <td><a href="https://arxiv.org/pdf/1808.09781.pdf">Self-Attentive Sequential Recommendation</a></td>
       <td>
         <ul>
-          <li>Balance traditional methods such as Markov Chains (makes its predictions based on relatively few actions) and RNN (capture long-term semantics)</li>
-          <li></li>  
-          <li></li>  
+          <li>Balance traditional methods such as Markov Chains (make predictions based on few recent actions) and RNN (capture long-term semantics)</li>
+          <li>SASRec tends to consider long-range dependencies on dense datasets, while focusing on more recent activities on sparse datasets</li>  
+          <li>Self-attention enables parallel processing which is faster than other models</li>  
           <li></li>
         </ul>
       </td>
