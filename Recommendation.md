@@ -10,7 +10,7 @@
   </thead>
   <tbody>
     <tr>
-      <td></td>
+      <td>2018.9</td>
       <td>SARs</td>
       <td><a href="https://www.ijcai.org/Proceedings/2019/0883.pdf">Sequential Recommender Systems: Challenges, Progress and Prospects</a></td>
       <td>
