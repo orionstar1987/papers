@@ -25,12 +25,13 @@
     </tr>
     <tr>
       <td>2018.8</td>
-      <td>SARs</td>
+      <td>SASRec</td>
       <td><a href="https://arxiv.org/pdf/1808.09781.pdf">Self-Attentive Sequential Recommendation</a></td>
       <td>
         <ul>
           <li>Inspired by Transformer. Balance traditional methods such as Markov Chains (make predictions based on few recent actions) and RNN (capture long-term semantics)</li>
           <li>SASRec tends to consider long-range dependencies on dense datasets, while focusing on more recent activities on sparse datasets</li>  
+          <li>Self-attention mechanism is adaptive, position-aware, and hierarchical</li>  
           <li>Self-attention enables parallel processing which is faster than other models</li>  
           <li>Predict the next item i by calculating the relevance of item it given the first t items (s1, s2, ..., st) and the item embediing Ni</li>
           <li>Outperform other models on both sparse and dense data by adaptively attend items within different ranges on different datasets (e.g. only the previous item on sparse datasets and more on dense datasets)</li>
