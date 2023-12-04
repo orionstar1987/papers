@@ -29,10 +29,12 @@
       <td><a href="https://arxiv.org/pdf/1808.09781.pdf">Self-Attentive Sequential Recommendation</a></td>
       <td>
         <ul>
-          <li>Balance traditional methods such as Markov Chains (make predictions based on few recent actions) and RNN (capture long-term semantics)</li>
+          <li>Inspired by Transformer. Balance traditional methods such as Markov Chains (make predictions based on few recent actions) and RNN (capture long-term semantics)</li>
           <li>SASRec tends to consider long-range dependencies on dense datasets, while focusing on more recent activities on sparse datasets</li>  
           <li>Self-attention enables parallel processing which is faster than other models</li>  
-          <li></li>
+          <li>Predict the next item i by calculating the relevance of item it given the first t items (s1, s2, ..., st) and the item embediing Ni</li>
+          <li>Outperform other models on both sparse and dense data by adaptively attend items within different ranges on different datasets (e.g. only the previous item on sparse datasets and more on dense datasets)</li>
+          <li>Didn't add user embedding as it doesn't help improve performance</li>
         </ul>
       </td>
       <td><a href="https://www.semanticscholar.org/paper/Sequential-Recommender-Systems%3A-Challenges%2C-and-Wang-Hu/d837642802ffc85e193694f94f7499276864648e"><img src="https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fd837642802ffc85e193694f94f7499276864648e%3Ffields%3DcitationCount" alt="citation"></a></td>
