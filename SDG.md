@@ -43,6 +43,18 @@ Shift from simpler probabilistic models like Markov chains and Bayesian Networks
   </thead>
   <tbody>
     <tr>
+      <td>2024.6</td>
+      <td>SDG</td>
+      <td><a href="https://developer.nvidia.com/blog/leverage-our-latest-open-models-for-synthetic-data-generation-with-nvidia-nemotron-4-340b/">NVIDIA Nemotron-4 340B</a></td>
+      <td>
+        <ul>
+          <li>NVIDIA's new suite of models specifically built for SDG, including a state-of-the-art Reward Model, and a Instruct model to aid in SDG</li>
+        </ul>
+      </td>
+   <td>
+      </td>
+    </tr>
+    <tr>
       <td>2024.2</td>
       <td>SDG</td>
       <td><a href="https://arxiv.org/pdf/2401.02524">Comprehensive Exploration of Synthetic Data Generation: A Survey</a></td>
