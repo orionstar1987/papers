@@ -43,26 +43,18 @@ Shift from simpler probabilistic models like Markov chains and Bayesian Networks
   </thead>
   <tbody>
     <tr>
-      <td>2018.9</td>
-      <td>SARs</td>
-      <td><a href="https://www.ijcai.org/Proceedings/2019/0883.pdf">Sequential Recommender Systems: Challenges, Progress and Prospects</a></td>
+      <td>2024.2</td>
+      <td>SDG</td>
+      <td><a href="https://arxiv.org/pdf/2401.02524">Comprehensive Exploration of Synthetic Data Generation: A Survey</a></td>
       <td>
       </td>
-      <td><a href="https://www.semanticscholar.org/paper/Sequential-Recommender-Systems%3A-Challenges%2C-and-Wang-Hu/d837642802ffc85e193694f94f7499276864648e"><img src="https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fd837642802ffc85e193694f94f7499276864648e%3Ffields%3DcitationCount" alt="citation"></a></td>
+      <td><a href="https://www.semanticscholar.org/paper/Sequential-Recommender-Systems%3A-Challenges%2C-and-Wang-Hu/d837642802ffc85e193694f94f7499276864648e"><img src="https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F4ec981ed24911e9f5cf1162930eb19321bcdafcb%3Ffields%3DcitationCount" alt="citation"></a></td>
     </tr>
     <tr>
-      <td>2018.8</td>
+      <td>2023.10</td>
       <td>SDG</td>
       <td><a href="https://arxiv.org/pdf/2310.07849">Synthetic Data Generation with Large Language Models for Text Classification: Potential and Limitationsn</a></td>
       <td>
       </td>
       <td><a href="https://www.semanticscholar.org/paper/Sequential-Recommender-Systems%3A-Challenges%2C-and-Wang-Hu/d837642802ffc85e193694f94f7499276864648e"><img src="https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F29f07e73b7aaa7e9e950c59710472c62316be74a%3Ffields%3DcitationCount" alt="citation"></a></td>
-    </tr>
-    <tr>
-      <td>2014.9</td>
-      <td>seq2seq</td>
-      <td><a href="https://arxiv.org/abs/1409.3215">Sequence to Sequence Learning with Neural Networks</a></td>
-      <td>
-      </td>
-      <td><a href="https://www.semanticscholar.org/paper/Sequence-to-Sequence-Learning-with-Neural-Networks-Sutskever-Vinyals/cea967b59209c6be22829699f05b8b1ac4dc092d"><img src="https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fcea967b59209c6be22829699f05b8b1ac4dc092d%3Ffields%3DcitationCount" alt="citation"></a></td>
     </tr>
